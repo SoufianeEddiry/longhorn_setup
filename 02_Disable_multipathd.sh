@@ -1,0 +1,2 @@
+systemctl stop multipathd
+systemctl disable multipathd
